@@ -1,0 +1,75 @@
+/*#F8F9FA - Seasalt
+  #051923 - Rich Black
+  #F2FFFF - Axure
+  #E7D3FF - Periwinkle
+  #CB7EFF - Heliotrope*/
+
+  /*GLOBAL STYLES
+  ----------------------------------------*/
+
+  body{
+    background: #F2FFFF;
+  }
+
+  /*links*/
+  a{
+    color: #CB7EFF;
+  }
+
+  a:hover{
+    color: #E7D3FF;
+    text-decoration: none;
+  }
+
+  footer a{
+    color: #E7D3FF
+  }
+
+  footer a:hover{
+    color: #CB7EFF;
+  }
+
+  .btn{
+    background: #051923;
+    color: #E7D3FF;
+    text-decoration: none;
+  }
+  /*GLOBAL STYLES END
+  ---------------------------------------*/
+
+
+
+  /*HOME
+  ---------------------------------------*/
+  .home{
+    background: url(../images/sharon-mccutcheon-unsplash.jpg) no-repeat;
+    background-size: cover;
+  }
+
+  .home .content-wrapper{
+    background: rgb(255 255 255 / 70%);
+  }
+
+  /*Profile*/
+
+  /*Projects*/
+
+  /*Work Experience*/
+
+  /*Education*/
+
+
+  /*HOME END
+  ---------------------------------------*/
+
+
+
+  /*FOOTER
+  ---------------------------------------*/
+  footer{
+    background: #051923;
+    color: #F8F9FA;
+  }
+
+  /*FOOTER END
+  ---------------------------------------*/
