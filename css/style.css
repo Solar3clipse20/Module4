@@ -6,6 +6,13 @@
 
   /*GLOBAL STYLES
   ----------------------------------------*/
+  html {
+    box-sizing: border-box;
+  }
+
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
 
   body{
     background: #F2FFFF;
@@ -69,6 +76,13 @@
   footer{
     background: #051923;
     color: #F8F9FA;
+  }
+  .socials{
+    list-style-type: none;
+    padding: 0;
+  }
+  .socials li {
+    display: inline-block;
   }
 
   /*FOOTER END
