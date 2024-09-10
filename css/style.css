@@ -44,7 +44,7 @@
 
   /*GLOBAL STYLES END
   ---------------------------------------*/
-  
+
 
   /*HOME
   ---------------------------------------*/
@@ -61,6 +61,16 @@
   }
 
   /*Profile*/
+  .header-content{
+    margin-bottom: 90px;
+  }
+  header::before{
+    background: url(../images/joanna-kosinska-unsplash.jpg);
+    background-size: cover;
+    content: "hello";
+    display: block;
+    height: 300px;
+  }
 
   /*Projects*/
 
