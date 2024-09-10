@@ -65,6 +65,8 @@
     font-size: 1.2rem;
     display: inline-block;
     padding: 7px;
+    line-height: 1;
+    border-radius: 4px;
   }
 
   /*GLOBAL STYLES END
@@ -106,6 +108,7 @@
     position: fixed;
     top: 5px;
     left: 5px;
+    font-size: 1.5rem;
   }
 
   /*Profile*/
@@ -138,6 +141,7 @@
     grid-template-columns: 300px 1fr;
     column-gap: 20px;
   }
+  
 
   /*Education*/
 
