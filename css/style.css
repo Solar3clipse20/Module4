@@ -141,7 +141,13 @@
     grid-template-columns: 300px 1fr;
     column-gap: 20px;
   }
-  
+  .work-details p{
+    margin: 0;
+  }
+  .work-summary p:first-child{
+    margin-top: 0;
+  }
+
 
   /*Education*/
 
